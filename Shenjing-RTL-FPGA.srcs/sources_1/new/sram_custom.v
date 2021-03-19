@@ -26,54 +26,59 @@ module sram_custom(
         Q, //Output
         A, //Address
         WEB, //Write enable
-        SLP, //Memory Sleep enable
+        SLP, //Memory Sleep enable // Removed for now, initial look shows no sleep functionality on zcu104
         CEB, //Memory Chip Enable (Low active)
-        SD, //Memory shut down
+        //SD, //Memory shut down // Removed for now, intended functionality is for FPGA off/on to provide same functionality
         RSTB //Reset button
     );
     
-    parameter SRAM_WIDTH = 64;
-    parameter ADDR_WIDTH = 6; //Why is it 7 in the original code?
+    parameter SRAM_WIDTH = 128;
+    parameter ADDR_WIDTH = 7; 
     
-    input   CLK,SLP,CEB,SD,RSTB;
+    input   CLK,CEB,RSTB,SLP;
+    //input   SD;
     input   [SRAM_WIDTH-1:0]    D;
     input   [ADDR_WIDTH-1:0]    A;
     input   WEB;
     
+    output reg [SRAM_WIDTH-1:0] Q;
+
+    reg [SRAM_WIDTH-1:0] sram_data[SRAM_WIDTH-1:0];
+    
     task RESET_MEMORY;
-        for(index = 0; index < SRAM_WIDTH; index = index + 1) begin
-            sram_data[index] <= 0;
+        begin
+            for(index = 0; index < SRAM_WIDTH; index = index + 1) begin
+                sram_data[index] <= 0;
+            end
+            Q <= 0;
         end
     endtask
     
-    reg [SRAM_WIDTH-1:0] sram_data[SRAM_WIDTH-1:0];
-    reg in_shut_down = 1'b0;
     
-    integer index; //Does this create a new register?
     
-    output [SRAM_WIDTH-1:0] Q;
-    
-    assign Q = ~CEB & ~SD ? sram_data[A] : 0;
+    integer index;
+
+//    assign Q = ~ceb_toggle ? sram_data[A] : 0;
     
     initial begin
         RESET_MEMORY;
     end
     
     always@(posedge CLK) begin
-    if (~SD & in_shut_down)
-        in_shut_down <= 1'b0;
-    if (~SD & ~SLP) begin
-        if (WEB & ~CEB )
-            sram_data[A] <= D;
-        end
-        if (RSTB) begin
+        
+        if (~WEB & ~CEB)
+            sram_data[A] = D;
+        if (~CEB)
+            Q = sram_data[A];
+        else
+            Q = 0;
+        if (~RSTB)
             RESET_MEMORY;
-        end
-    else if (SD & ~in_shut_down) begin
-            RESET_MEMORY;
-            in_shut_down <= 1'b1;
-        end
+        if (SLP & ~CEB)
+            $display("Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM");
     end
+    
+    
     
     
     

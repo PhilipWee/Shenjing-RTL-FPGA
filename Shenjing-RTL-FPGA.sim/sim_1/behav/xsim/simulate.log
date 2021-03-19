@@ -1,166 +1,275 @@
 Vivado Simulator 2020.2
 Time resolution is 1 ps
-Time = 0 clk = 0 D = 10 Q = 0 A = 3 WEB = 1
-Time = 5000 clk = 1 D = 10 Q = 10 A = 3 WEB = 1
-Time = 10000 clk = 0 D = 10 Q = 10 A = 3 WEB = 1
-Time = 15000 clk = 1 D = 10 Q = 10 A = 3 WEB = 1
-Time = 20000 clk = 0 D = 10 Q = 10 A = 3 WEB = 0
-Time = 25000 clk = 1 D = 10 Q = 10 A = 3 WEB = 0
-Time = 30000 clk = 0 D = 10 Q = 10 A = 3 WEB = 0
-Time = 35000 clk = 1 D = 10 Q = 10 A = 3 WEB = 0
-Time = 40000 clk = 0 D = 20 Q = 0 A = 5 WEB = 1
-Time = 45000 clk = 1 D = 20 Q = 20 A = 5 WEB = 1
-Time = 50000 clk = 0 D = 20 Q = 20 A = 5 WEB = 1
-Time = 55000 clk = 1 D = 20 Q = 20 A = 5 WEB = 1
-Time = 60000 clk = 0 D = 20 Q = 20 A = 5 WEB = 0
-Time = 65000 clk = 1 D = 20 Q = 20 A = 5 WEB = 0
-Time = 70000 clk = 0 D = 20 Q = 20 A = 5 WEB = 0
-Time = 75000 clk = 1 D = 20 Q = 20 A = 5 WEB = 0
-Time = 80000 clk = 0 D = 20 Q = 10 A = 3 WEB = 0
-Time = 85000 clk = 1 D = 20 Q = 10 A = 3 WEB = 0
-Time = 90000 clk = 0 D = 20 Q = 10 A = 3 WEB = 0
-Time = 95000 clk = 1 D = 20 Q = 10 A = 3 WEB = 0
-Time = 100000 clk = 0 D = 20 Q = 0 A = 3 WEB = 0
-Time = 105000 clk = 1 D = 20 Q = 0 A = 3 WEB = 0
-Time = 110000 clk = 0 D = 20 Q = 0 A = 3 WEB = 0
-Time = 115000 clk = 1 D = 20 Q = 0 A = 3 WEB = 0
-Time = 120000 clk = 0 D = 20 Q = 0 A = 3 WEB = 0
-Time = 125000 clk = 1 D = 20 Q = 10 A = 3 WEB = 0
-Time = 130000 clk = 0 D = 20 Q = 10 A = 3 WEB = 0
-Time = 135000 clk = 1 D = 20 Q = 10 A = 3 WEB = 0
-Time = 140000 clk = 0 D = 20 Q = 10 A = 3 WEB = 0
-Time = 145000 clk = 1 D = 20 Q = 10 A = 3 WEB = 0
-Time = 150000 clk = 0 D = 20 Q = 0 A = 3 WEB = 0
-Time = 155000 clk = 1 D = 20 Q = 0 A = 3 WEB = 0
-Time = 160000 clk = 0 D = 20 Q = 0 A = 3 WEB = 0
-Time = 165000 clk = 1 D = 20 Q = 0 A = 3 WEB = 0
-Time = 170000 clk = 0 D = 20 Q = 0 A = 3 WEB = 0
-Time = 175000 clk = 1 D = 20 Q = 0 A = 5 WEB = 0
-Time = 180000 clk = 0 D = 20 Q = 0 A = 5 WEB = 0
-Time = 185000 clk = 1 D = 30 Q = 0 A = 5 WEB = 1
-Time = 190000 clk = 0 D = 30 Q = 0 A = 5 WEB = 1
-Time = 195000 clk = 1 D = 30 Q = 30 A = 5 WEB = 1
-Time = 200000 clk = 0 D = 30 Q = 30 A = 5 WEB = 1
-Time = 205000 clk = 1 D = 30 Q = 30 A = 5 WEB = 0
-Time = 210000 clk = 0 D = 30 Q = 30 A = 5 WEB = 0
-Time = 215000 clk = 1 D = 30 Q = 30 A = 5 WEB = 0
-Time = 220000 clk = 0 D = 30 Q = 30 A = 5 WEB = 0
-Time = 225000 clk = 1 D = 30 Q = 0 A = 5 WEB = 0
-Time = 230000 clk = 0 D = 30 Q = 0 A = 5 WEB = 0
-Time = 235000 clk = 1 D = 30 Q = 0 A = 5 WEB = 0
-Time = 240000 clk = 0 D = 30 Q = 0 A = 5 WEB = 0
-Time = 245000 clk = 1 D = 30 Q = 0 A = 5 WEB = 0
-Time = 250000 clk = 0 D = 30 Q = 30 A = 5 WEB = 0
-Time = 255000 clk = 1 D = 30 Q = 30 A = 5 WEB = 0
-Time = 260000 clk = 0 D = 30 Q = 30 A = 5 WEB = 0
-Time = 265000 clk = 1 D = 30 Q = 30 A = 5 WEB = 0
-Time = 270000 clk = 0 D = 30 Q = 30 A = 5 WEB = 0
-Time = 275000 clk = 1 D = 30 Q = 30 A = 5 WEB = 0
-Time = 280000 clk = 0 D = 30 Q = 30 A = 5 WEB = 0
-Time = 285000 clk = 1 D = 30 Q = 0 A = 5 WEB = 0
-Time = 290000 clk = 0 D = 30 Q = 0 A = 5 WEB = 0
-Time = 295000 clk = 1 D = 30 Q = 0 A = 5 WEB = 0
-Time = 300000 clk = 0 D = 30 Q = 0 A = 5 WEB = 0
-Time = 305000 clk = 1 D = 30 Q = 0 A = 5 WEB = 0
-Time = 310000 clk = 0 D = 30 Q = 0 A = 5 WEB = 0
-Time = 315000 clk = 1 D = 30 Q = 0 A = 0 WEB = 0
-Time = 320000 clk = 0 D = 39 Q = 0 A = 0 WEB = 1
-Time = 325000 clk = 1 D = 39 Q = 39 A = 0 WEB = 1
-Time = 330000 clk = 0 D = 39 Q = 39 A = 0 WEB = 1
-Time = 335000 clk = 1 D = 39 Q = 39 A = 0 WEB = 1
-Time = 340000 clk = 0 D = 39 Q = 39 A = 0 WEB = 1
-Time = 345000 clk = 1 D = 39 Q = 39 A = 0 WEB = 1
-Time = 350000 clk = 0 D = 39 Q = 39 A = 0 WEB = 1
-Time = 355000 clk = 1 D = 39 Q = 39 A = 0 WEB = 1
-Time = 360000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 365000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 370000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 375000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 380000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 385000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 390000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 395000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 400000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 405000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 410000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 415000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 420000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 425000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 430000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 435000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 440000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 445000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 450000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 455000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 460000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 465000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 470000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 475000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 480000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 485000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 490000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 495000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 500000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 505000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 510000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 515000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 520000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 525000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 530000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 535000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 540000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 545000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 550000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 555000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 560000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 565000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 570000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 575000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 580000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 585000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 590000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 595000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 600000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 605000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 610000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 615000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 620000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 625000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 630000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 635000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 640000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 645000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 650000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 655000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 660000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 665000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 670000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 675000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 680000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 685000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 690000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 695000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 700000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 705000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 710000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 715000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 720000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 725000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 730000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 735000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 740000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 745000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 750000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 755000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 760000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 765000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 770000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 775000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 780000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 785000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 790000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 795000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 800000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 805000 clk = 1 D = 22 Q = 39 A = 0 WEB = 1
-Time = 810000 clk = 0 D = 22 Q = 39 A = 0 WEB = 1
-Time = 815000 clk = 1 D = 22 Q = 39 A = 0 WEB = 
+Set initial low values
+Time = 5000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Apply reset first, then run tests
+Time = 10000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Time = 15000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 20000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 25000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 30000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 35000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 40000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 45000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 50000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 55000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 60000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 65000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 70000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 75000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 80000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 85000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 90000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 95000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 100000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 105000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 110000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
+Time = 115000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Try writing the number 10 to address 3
+Time = 120000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Time = 125000 CLK = 1 D = 10 Q = 0 A = 3 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Try changing the address to 5 and write the number 20
+Time = 130000 CLK = 0 D = 10 Q = 10 A = 3 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Time = 135000 CLK = 1 D = 10 Q = 10 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 140000 CLK = 0 D = 10 Q = 10 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 145000 CLK = 1 D = 20 Q = 10 A = 5 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Time = 150000 CLK = 0 D = 20 Q = 20 A = 5 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Time = 155000 CLK = 1 D = 20 Q = 20 A = 5 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Try changing back to address 3 and checking if it is still 10
+Time = 160000 CLK = 0 D = 20 Q = 20 A = 5 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 165000 CLK = 1 D = 20 Q = 20 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Try putting CEB to high and check there is no output
+Time = 170000 CLK = 0 D = 20 Q = 10 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 175000 CLK = 1 D = 20 Q = 10 A = 3 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Time = 180000 CLK = 0 D = 20 Q = 0 A = 3 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Time = 185000 CLK = 1 D = 20 Q = 0 A = 3 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Try putting CEB to low and check there is output
+Time = 190000 CLK = 0 D = 20 Q = 0 A = 3 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Time = 195000 CLK = 1 D = 20 Q = 0 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 200000 CLK = 0 D = 20 Q = 10 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 205000 CLK = 1 D = 20 Q = 10 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+rewrite a value to the register (Address is already 3)
+Time = 210000 CLK = 0 D = 20 Q = 10 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 215000 CLK = 1 D = 30 Q = 10 A = 3 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Time = 220000 CLK = 0 D = 30 Q = 30 A = 3 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Time = 225000 CLK = 1 D = 30 Q = 30 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Stop the chip enable and check that there is no output
+Time = 230000 CLK = 0 D = 30 Q = 30 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 235000 CLK = 1 D = 30 Q = 30 A = 3 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Time = 240000 CLK = 0 D = 30 Q = 0 A = 3 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Time = 245000 CLK = 1 D = 30 Q = 0 A = 3 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Renable the chip and check there is output
+Time = 250000 CLK = 0 D = 30 Q = 0 A = 3 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Time = 255000 CLK = 1 D = 30 Q = 0 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 260000 CLK = 0 D = 30 Q = 30 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 265000 CLK = 1 D = 30 Q = 30 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Reset the chip and check that the value has been reset to 0
+Time = 270000 CLK = 0 D = 30 Q = 30 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 275000 CLK = 1 D = 30 Q = 30 A = 3 WEB = 1 CEB = 0 RSTB = 0 SLP = 0
+Time = 280000 CLK = 0 D = 30 Q = 0 A = 3 WEB = 1 CEB = 0 RSTB = 0 SLP = 0
+Time = 285000 CLK = 1 D = 30 Q = 0 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Rewrite a value to test there is output
+Time = 290000 CLK = 0 D = 30 Q = 0 A = 3 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 295000 CLK = 1 D = 30 Q = 0 A = 0 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 300000 CLK = 0 D = 30 Q = 0 A = 0 WEB = 1 CEB = 0 RSTB = 1 SLP = 0
+Time = 305000 CLK = 1 D = 39 Q = 0 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Time = 310000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Time = 315000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Try SLP high and CEB low
+Time = 320000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 0
+Time = 325000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 330000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 335000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 340000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 345000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 350000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 355000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 360000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 365000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 370000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 375000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 380000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 385000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 390000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 395000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 400000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 405000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 410000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 415000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 420000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 425000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 430000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 435000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 440000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 445000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 450000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 455000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 460000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 465000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 470000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 475000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 480000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 485000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 490000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 495000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 500000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 505000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 510000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 515000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 520000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 525000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 530000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 535000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 540000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 545000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 550000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 555000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 560000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 565000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 570000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 575000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 580000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 585000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 590000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 595000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 600000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 605000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 610000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 615000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 620000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 625000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 630000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 635000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 640000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 645000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 650000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 655000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 660000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 665000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 670000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 675000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 680000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 685000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 690000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 695000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 700000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 705000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 710000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 715000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 720000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 725000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 730000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 735000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 740000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 745000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 750000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 755000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 760000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 765000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 770000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 775000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 780000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 785000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 790000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 795000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 800000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 805000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 810000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 815000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 820000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 825000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 830000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 835000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 840000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 845000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 850000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 855000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 860000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 865000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 870000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 875000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 880000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 885000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 890000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 895000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 900000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 905000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 910000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 915000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 920000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 925000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 930000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 935000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 940000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 945000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 950000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 955000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 960000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 965000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 970000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 975000 CLK = 1 D = 39 Q = 39 A = 0 W
