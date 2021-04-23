@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Mar 24 12:41:34 2021
+# Process ID: 24920
+# Current directory: C:/Users/Philip Wee/Documents/Dissertation/Shenjing-RTL-FPGA/Shenjing-RTL-FPGA.sim/accumulator_simulation/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Philip Wee/Documents/Dissertation/Shenjing-RTL-FPGA/Shenjing-RTL-FPGA.sim/accumulator_simulation/behav/xsim/xsim.dir/testbench_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Philip Wee/Documents/Dissertation/Shenjing-RTL-FPGA/Shenjing-RTL-FPGA.sim/accumulator_simulation/behav/xsim/webtalk.log
+# Journal file: C:/Users/Philip Wee/Documents/Dissertation/Shenjing-RTL-FPGA/Shenjing-RTL-FPGA.sim/accumulator_simulation/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Philip -notrace
+couldn't read file "C:/Users/Philip": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Wed Mar 24 12:41:34 2021...

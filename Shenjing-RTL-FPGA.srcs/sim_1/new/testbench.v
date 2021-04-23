@@ -66,7 +66,7 @@ module testbench;
         D <= 10;
         A <= 3;
         #10
-        `assert(Q,10);
+        `assert(Q,10); //This one
         WEB <= 1;
         $display("Try changing the address to 5 and write the number 20");
         #10

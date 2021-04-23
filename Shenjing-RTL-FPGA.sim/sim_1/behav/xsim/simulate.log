@@ -1,7 +1,7 @@
 Vivado Simulator 2020.2
 Time resolution is 1 ps
 Set initial low values
-Time = 5000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
+Time = 5000 CLK = 1 D = 0 Q = x A = 0 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
 Apply reset first, then run tests
 Time = 10000 CLK = 0 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 1 SLP = 0
 Time = 15000 CLK = 1 D = 0 Q = 0 A = 0 WEB = 1 CEB = 1 RSTB = 0 SLP = 0
@@ -272,4 +272,12 @@ Time = 960000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
 Time = 965000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
 Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
 Time = 970000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
-Time = 975000 CLK = 1 D = 39 Q = 39 A = 0 W
+Time = 975000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 980000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 985000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 990000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Time = 995000 CLK = 1 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1
+Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM
+Time = 1000000 CLK = 0 D = 39 Q = 39 A = 0 WEB = 0 CEB = 0 RSTB = 1 SLP = 1

@@ -35,13 +35,19 @@ module sram_custom(
     parameter SRAM_WIDTH = 128;
     parameter ADDR_WIDTH = 7; 
     
-    input   CLK,CEB,RSTB,SLP;
+    input   CLK,CEB,RSTB,SLP,WEB;
     //input   SD;
     input   [SRAM_WIDTH-1:0]    D;
     input   [ADDR_WIDTH-1:0]    A;
-    input   WEB;
     
-    output reg [SRAM_WIDTH-1:0] Q;
+    
+    //Create internal variables that only get updated on posedge clock
+    reg [SRAM_WIDTH-1:0] _D;
+    reg [ADDR_WIDTH-1:0] _A;
+    
+    reg   _CEB,_SLP,_WEB;
+    
+    output [SRAM_WIDTH-1:0] Q;
 
     reg [SRAM_WIDTH-1:0] sram_data[SRAM_WIDTH-1:0];
     
@@ -50,32 +56,31 @@ module sram_custom(
             for(index = 0; index < SRAM_WIDTH; index = index + 1) begin
                 sram_data[index] <= 0;
             end
-            Q <= 0;
         end
     endtask
     
-    
-    
+    task UPDATE_INTERNAL_PARAMS;
+        begin
+            _CEB <= CEB;
+            _A <= A;
+        end
+    endtask
+
     integer index;
 
-//    assign Q = ~ceb_toggle ? sram_data[A] : 0;
-    
-    initial begin
-        RESET_MEMORY;
-    end
+    assign Q = ~_CEB ? sram_data[_A] : 0; //Will now only update on posedge clock with non-blocking assignments
     
     always@(posedge CLK) begin
-        
-        if (~WEB & ~CEB)
-            sram_data[A] = D;
-        if (~CEB)
-            Q = sram_data[A];
-        else
-            Q = 0;
         if (~RSTB)
             RESET_MEMORY;
-        if (SLP & ~CEB)
-            $display("Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM");
+        else
+            begin
+                UPDATE_INTERNAL_PARAMS;
+                if (~WEB & ~CEB)
+                    sram_data[A] <= D;
+                if (SLP & ~CEB)
+                    $display("Warning: SLP is low and CEB is high, this is outside expected behavior of IP SRAM");
+            end
     end
     
     
